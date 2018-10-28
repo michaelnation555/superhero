@@ -1,2 +1,5 @@
-# superhero
-The C++ code base for my graduation project at BCIT.
+## Graduation Project
+This was a C++ game created by myself using Unreal Engine 4 for an individual graduation project at BCIT.
+
+## Game
+The project is a 3rd person superhero action game created using the Unreal Engine 4. Players can use the Mouse & Keyboard or an Xbox 360 controller to control their character in the world. The player character has multiple abilities such as super speed, jumping, and flying to make traversing the city feel seamless. The game’s world is a procedurally generated modern day city, containing several streets with roads, intersections, and large office buildings that the player can physically enter. Any time the player starts a new game the world will be regenerated and different from their last play session. In addition, the player also has combative abilities including melee attacks, and ranged weapons that can be found throughout the city and picked up. The game also contains an A.I. enemy component that will guard the city, and attack the player on sight. The A.I. component was created using a behaviour tree consisting of Sequence and Selector nodes which guides the A.I. decision making. Finally the player is able to customize their character through different costumes, colors, and headgear.
